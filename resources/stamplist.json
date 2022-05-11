@@ -1,0 +1,18 @@
+{
+  "==": {
+  	"10"  : "resources/stamps/whale.txt",
+	"20"  : "resources/stamps/kitten.txt",
+	"30"  : "resources/stamps/bunny.txt",
+	"1337": "resources/stamps/1337.txt"
+  },
+  "%+": {
+  	"100" : "resources/stamps/elephant.txt",
+  	"500" : "resources/stamps/tux.txt",
+  	"1000": "resources/stamps/shadowman.txt"
+  },
+  "%-": {
+  	"100" : "resources/stamps/neglephant.txt",
+  	"500" : "resources/stamps/windows.txt",
+  	"1000": "resources/stamps/facepalm.txt"
+  }
+}

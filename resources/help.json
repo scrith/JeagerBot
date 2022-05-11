@@ -1,0 +1,16 @@
+{
+  "karma": [
+	"    KARMA |  [name]++   |  rank [name]    |  [A] versus B    |  top      |",
+	"      ... |  [name]--   |  score [name]   |  search [term]   |  bottom   |",
+	"   STAMPS |  @+10,+20,+30,+1337           |  %±100,±500,±1000            |"
+  ],
+  "weather": [
+	"Syntax is  'weather (location) [+hourly] [+daily|+forecast]'"
+  ],
+  "botsnack": [
+	"Every good bot deserves a snack once in a while"
+  ],
+  "commands": [
+	"Additional commands: status (s/e), channels (list of connected channels)  "
+  ]
+}

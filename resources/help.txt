@@ -1,0 +1,4 @@
+    KARMA |  [name]++   |  rank [name]    |  [A] versus B    |  top      |
+      ... |  [name]--   |  score [name]   |  search [term]   |  bottom   |
+   STAMPS |  @+10,+20,+30,+1337           |  %±100,±500,±1000            |
+  WEATHER |  weather location [+hourly] [+daily]                         |

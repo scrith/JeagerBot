@@ -1,0 +1,12 @@
+{
+  "responses":[
+	{"type":"msg", "value":"ヽ(°〇°)ﾉ"},
+    {"type":"msg", "value":"(‾⌣‾)"},
+    {"type":"msg", "value":"yummy"},
+    {"type":"msg", "value":"【ツ】"},
+    {"type":"msg", "value":"\\(^o^)/"},
+    {"type":"act", "value":"smiles"},
+    {"type":"act", "value":"hugs @USER"},
+    {"type":"act", "value":"gives @USER high five"}
+  ]
+}
